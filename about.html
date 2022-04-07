@@ -36,5 +36,11 @@
         <p>Thanks to @aperkaz for its wonderful online radio code.</p>
         
         </div>
+		<script>
+			window.onload = function() { document.body.className = ''; }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+			
 	</body>
 </html>
