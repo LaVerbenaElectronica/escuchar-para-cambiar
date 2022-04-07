@@ -29,7 +29,7 @@ function loadStream(index){
   music.load();
   music.play();
   setLabel(index);
-  pauseIcon();
+  //pauseIcon();
   playingIndex = index;
   playing = true;
 }
