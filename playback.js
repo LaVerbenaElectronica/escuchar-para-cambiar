@@ -6,7 +6,7 @@ const sources = [
 ];
 
 const labels = [
-  [ "Radio Paradise", "https://www.radioparadise.com" ],
+  [ "Real World Sounds", "https://uk5.internet-radio.com" ],
   [ "Party Gong", "https://www.radiogong.de/"],
   [ "SomaFM Folk Forward", "http://somafm.com/folkfwd/"],
   [ "Punk FM", " http://www.punkfm.co.uk/"]
