@@ -102,6 +102,7 @@
 	.icon {
 		text-decoration: none;
 		position: relative;
+		font-size: 10pt;
 	}
 
 		.icon:before {
