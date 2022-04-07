@@ -88,7 +88,7 @@
 		border-bottom: dotted 1px;
 		color: inherit;
 		outline: 0;
-		text-decoration: none;
+		font-weight: bold;
 		font-size: 20pt;
 	}
 
