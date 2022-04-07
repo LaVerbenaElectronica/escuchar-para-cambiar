@@ -1,8 +1,8 @@
 const sources = [
   "http://uk5.internet-radio.com:8260/listen.pls&t=.m3u", // paradise
-  "http://uk5.internet-radio.com:8260/listen.pls&t=.m3u", // party gong
-  "http://uk5.internet-radio.com:8260/listen.pls&t=.m3u", // folk forward
-  "http://uk5.internet-radio.com:8260/listen.pls&t=.m3u" // punk fm
+  "http://radiogong-ais-edge-3073-fra-eco-cdn.cast.addradio.de/radiogong/live/mp3/high?ar-distributor=f0b7&aw_0_req.gdpr=true&_art=dj0yJmlwPTYyLjU3LjIuMjcmaWQ9aWNzY3hsLXMzeGRnenhtYiZ0PTE2MTAzODM3MDcmcz03ODY2ZjI5YyNiNzcwYWViOGUxZWU0NWI2MWJlNTAzZWE4OWUyZjQwYw", // party gong
+  "http://ice2.somafm.com/folkfwd-128-mp3", // folk forward
+  "http://94.23.26.22:8090/live.mp3" // punk fm
 ];
 
 const labels = [
