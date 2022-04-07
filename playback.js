@@ -6,7 +6,7 @@ const sources = [
 ];
 
 const labels = [
-  [ "Real World Sounds", "https://uk5.internet-radio.com" ],
+  [ "Streaming: Real World Sounds", "#" ],
   [ "Party Gong", "https://www.radiogong.de/"],
   [ "SomaFM Folk Forward", "http://somafm.com/folkfwd/"],
   [ "Punk FM", " http://www.punkfm.co.uk/"]
