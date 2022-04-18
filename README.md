@@ -1,24 +1,11 @@
 # ESCUCHAR PARA CAMBIAR, ESCUCHAR EL CAMBIO
 
-*Escuchar para cambiar, escuchar el cambio* es un proyecto seleccionado por la Fundación La Caixa dentro del programa Art For Change (2021)
+*Escuchar para cambiar, escuchar el cambio* es un proyecto seleccionado por la Fundación La Caixa dentro del programa Art For Change (2021).
 
-Profesionales de la pedagogía musical, la danza, la creación artística e  investigadores en ciencias sociales proponen un proyecto centrado en la escucha activa como motor y fuerza transformadora capaz de reorganizar la escala de valores de las personas que escuchan. Crean ecosistemas sonoros junto con la improvisación libre de música contemporánea como vehículo transmisor de la diversidad cultural existente en el barrio de Lavapiés. 
+Pauline Oliveros, compositora del siglo XX, en su libro “Deep Listening: una práctica para la composición sonora”, propone una pieza llamada Deep Listening Through The Millennium en la que invita a reflexionar sobre en qué consiste escuchar durante un periodo de tres años: escuchar para cambiar -escuchar con el propósito de cambiar -; escuchar el cambio. Frente a la emergencia climática y sanitaria que vivimos, se necesita mantener una respuesta transformadora que posibilite imaginar futuros más sostenibles y justos. 
 
-# REPOSITORIO 
+Por este motivo profesionales de la pedagogía musical, la creación artística y la investigación proponen un proyecto centrado en la escucha activa como motor y fuerza transformadora capaz de reorganizar la escala de valores de las personas que escuchan.
 
-Con este repositorio queremos dar a conocer el mundo de la bioacúsitica e investigar sobre el potencial transformador que esta disciplina tiene desde la educación musical contemporánea. 
-
-Frente a la emergencia climática y sanitaria que vivimos, se necesita mantener una respuesta que sea transformadora y que posibilite imaginar nuevos futuros más sostenibles y justos. Por este motivo nuestro equipo, que aglutina perfiles de la pedagogía de la música y la danza, la investigación en ciencias naturales y el activismo medioambiental, propone el desarrollo de un proyecto de sensibilización mediante la investigación y difusión artístico/educativa en los campos de la ecoacústica y la bioacústica como medio para fomentar un mayor conocimiento y respeto por el medio ambiente.
-Pensamos que el arte contemporáneo, y más concretamente, la pedagogía de la escucha profunda y paisaje sonoro tienen mucho que aportar como herramientas de transformación de ciertas actitudes en la sociedad. 
-
-## Investigación sobre bioacústica
-
-## Artistas sonoros que trabajan desde la escucha 
-
-## Recursos educativos y material pedagógico
-
-
-
+A través de herramientas metodológicas provenientes de la música contemporánea y la bioacústica tales como el paisaje sonoro o la improvisación libre, buscamos incrementar la conciencia ecológica así como el diálogo y el respeto mutuo.
 
 Participan en este proyecto: Chefa Alonso, Inés Fernández, María García, Pedro Álvarez, Jesús Jara.
-Thanks to @aperkaz for its wonderful online radio code.
